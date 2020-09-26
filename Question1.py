@@ -1,3 +1,4 @@
+print("Hammie was here!")
 sum = 0
 empty = []
 for i in range(1, 1000):
